@@ -20,4 +20,7 @@ public class One {
 
     @Column(table = TWO_TABLE)
     private String address;
+
+//    @Column
+//    private Integer version;
 }
